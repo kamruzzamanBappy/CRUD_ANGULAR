@@ -1,0 +1,49 @@
+{
+  "creditcards": [
+    {
+      "id": 1,
+      "cardName": "Islamic Bank - Platinum Card",
+      "bankName": "Islamic Bank",
+      "description": "Islamic Bank offers customers with variety of options",
+      "maxCrdit": 20000,
+      "active": true,
+      "annualFee": 0,
+      "interestRate": 13.5,
+      "introOffer": 200,
+      "recommendedCreditScore": "600-800",
+      "numberOfApplication": 40,
+      "createdDate": "1-1-24",
+      "termsAndCondition": "The following conditions are applicable for this card"
+    },
+    {
+      "id": 2,
+      "cardName": "Alfalah - Platinum Card",
+      "bankName": "Alfalah Bank",
+      "description": "Islamic Bank offers customers with variety of options",
+      "maxCrdit": 20000,
+      "active": true,
+      "annualFee": 0,
+      "interestRate": 13.5,
+      "introOffer": 200,
+      "recommendedCreditScore": "600-800",
+      "numberOfApplication": 40,
+      "createdDate": "1-1-24",
+      "termsAndCondition": "The following conditions are applicable for this card"
+    },
+    {
+      "id": 3,
+      "cardName": "Islamic Bank - Platinum Card",
+      "bankName": "Islamic Bank",
+      "description": "Islamic Bank offers customers with variety of options",
+      "maxCrdit": 20000,
+      "active": true,
+      "annualFee": 0,
+      "interestRate": 13.5,
+      "introOffer": 200,
+      "recommendedCreditScore": "600-800",
+      "numberOfApplication": 40,
+      "createdDate": "1-1-24",
+      "termsAndCondition": "The following conditions are applicable for this card"
+    }
+  ]
+}
